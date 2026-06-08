@@ -24,7 +24,7 @@ The website showcases:
 
 ## Live Website
 
-https://malathi-maragoni.github.io/Portfolio/
+https://malathi-maragoni.github.io/FUTURE_FS_01/
 
 ## Features
 
